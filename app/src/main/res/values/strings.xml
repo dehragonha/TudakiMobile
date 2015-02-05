@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings para a Activity de Login-->
+    <string name="app_name">Tudaki</string>
+    <string name="login_usuario">Usuário</string>
+    <string name="login_senha">Senha</string>
+    <string name="login_btnEntrar">Entrar</string>
+    <string name="login_semConta">Cadastre-se no TUDAKI!</string>
+    <string name="login_btnFacebook"> Login Facebook</string>
+
+
+
+</resources>
